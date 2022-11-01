@@ -6,7 +6,7 @@
     <version>1.0</version>
     <properties>
         <maven.compiler.release>17</maven.compiler.release>
-        <tinylog.version>2.4.1</tinylog.version>
+        <tinylog.version>2.5.0</tinylog.version>
         <exec.mainClass>pkg.Main</exec.mainClass>
     </properties>
     <dependencies>
